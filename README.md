@@ -49,10 +49,10 @@ The Bank Management System is a database management project designed to handle v
 
 For any inquiries or suggestions, please feel free to reach out to the project owner:
 
-- **Name:** [Anjali](Anjali)
-- **Email:** [anjaliduhan68@gmail.com]
-- **LinkedIn:** [www.linkedin.com/in/anjaliduhan]
-- **GitHub:** [https://github.com/anjali9156]
+- **Name:** [Anjali](https://github.com/anjali9156/Portfolio)
+- **Email:** anjaliduhan06@gmail.com
+- **LinkedIn:** www.linkedin.com/in/anjaliduhan
+- **GitHub:** https://github.com/anjali9156
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
