@@ -49,7 +49,7 @@ The Bank Management System is a database management project designed to handle v
 
 For any inquiries or suggestions, please feel free to reach out to the project owner:
 
-- **Name:** [Anjali](https://github.com/anjali9156/Portfolio)
+- **Name:** [Anjali](https://github.com/anjali9156)
 - **Email:** anjaliduhan06@gmail.com
 - **LinkedIn:** www.linkedin.com/in/anjaliduhan
 - **GitHub:** https://github.com/anjali9156
